@@ -10,6 +10,6 @@
       <li>Taghi Mammadov</li>
     </ul>
   <h1>Homework 3: How websites work?</h1>
-  <h3>Website:<a href="">Link</a></h3>
+  <h3>Website:<a href="https://tmammadov17503.github.io">Link</a></h3>
 </main>
   </html>
